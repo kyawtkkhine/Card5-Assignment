@@ -1,0 +1,38 @@
+h1{
+    color: #76ABDF;
+    text-align: center;
+}
+.container{
+
+    border: 1px solid grey;
+    display: grid;
+    width: 450px;
+    height: 230px;
+    grid-template-columns: 1fr 2fr;
+    margin: 50px auto;
+}
+
+.self{
+    border: 1px solid ;
+    width: 150px;
+    height: 250px;
+    margin-right: 20PX;
+}
+.img{
+    width:150px;
+    height: 230px;
+}
+h3,small{
+    margin-left: 15px;
+}
+
+p{
+    margin-left: 15px;
+    font-size: 15px;
+    font-style: italic;
+}
+
+small{
+    margin-left: 15px;
+    color: gray;
+}
