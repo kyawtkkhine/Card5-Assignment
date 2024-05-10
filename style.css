@@ -10,14 +10,10 @@ h1{
     height: 230px;
     grid-template-columns: 1fr 2fr;
     margin: 50px auto;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
-.self{
-    border: 1px solid ;
-    width: 150px;
-    height: 250px;
-    margin-right: 20PX;
-}
 .img{
     width:150px;
     height: 230px;
